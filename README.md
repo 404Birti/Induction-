@@ -22,11 +22,20 @@ Path was in process prior to 8:30 AM.
 ### Auditorium
 
 **Welcome Speeches**
-- HOD, Applied Sciences – Opening words and warm welcome.
-- Dean Academics – Overview of academic expectations.
-- Principal Sir – Encouragement and college vision.
-- Chief Guest – Real-world insights and motivation.
-- Guest of Honor – Shared college journey and values.
+- HOD, Applied Sciences – Harpreet Kaur Garewal
+  
+  Opening words and warm welcome.
+- Dean Academics – Akshey Gidhar
+  
+  Overview of academic expectations.
+- Principal Sir – Dr sehajpal Singh
+  
+  Encouragement and college vision.
+- Dean student welfare - Dr Paramjit Singh
+- Guest of Honor – ER Ravinder Garg and ER  Rakesh Kumar
+  
+  Real-world insights and motivation.
+Shared college journey and values.
 
 > I don’t remember every word, but the tone was clear:  
 > “You’re in a good college. Make the most of it.”  
