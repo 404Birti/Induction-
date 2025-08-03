@@ -108,7 +108,7 @@ English and Maths assessments held in the first half.
 > “I told you I’d make you meet God.”  
 > Couldn’t even argue with it — and he explained it logically too. Hats off.
 
-- Received honour from a trustee post-lecture — well-deserved.
+- Received honour from a trustee post-lecture - s. Gurchran Sungh Garewal — well-deserved.
 
 > Honestly? He was electric. Left the hall with more questions, but also this weird clarity. Like curiosity could be holy too.
 
