@@ -200,3 +200,24 @@ int main() {
 Each student introduced themselves with: their name, school , hobbies , strengths , weeknesses , achievements , accomplishments and a few other things
 
 > Felt like a soft launch — everyone’s story packed into 2 minutes. Surprisingly humanizing.
+
+## 5th August
+
+### BEEE (Basics of Electrical & Electronics Engineering)
+The day began with an introduction to BEEE — no heavy circuits yet, just a walkthrough of what the subject holds and how it's going to unfold over the semester. It felt more like a teaser trailer than the movie, but it did the job.
+
+>  Introductions (again)
+Another round — this time just our **names, a hobby**, and **board marks**. Faster, less pressure, and less overthinking... thankfully.
+
+### Chemistry Orientation
+The chemistry faculty gave us an overview of what the subject would look like — how it's split across different streams, how internal/external marks are divided, and a basic sense of where it fits in. Honestly, it wasn’t hardcore studying, but it still managed to hold attention. 
+
+### Break (12:30 PM – 2:00 PM)
+We used the break to wander a bit — campus exploration continues. This time we checked out the **sports complex**. Didn’t find the badminton courts (a little disappointing), but billiards made up for it in the most unexpected way. Smooth, quiet, focused — kinda liked it. There's still so much campus left to see, but we're getting there.
+
+### ID Card Photos
+2 PM was for photos. It went smoother than expected. Not sure if it captured me right — either ways....its done
+
+---
+
+> Not an intense day academically, but it had its own rhythm. Slowly settling into the space... and maybe even starting to find pieces of myself in it. Just not all of them yet.
