@@ -201,7 +201,7 @@ Each student introduced themselves with: their name, school , hobbies , strength
 
 > Felt like a soft launch — everyone’s story packed into 2 minutes. Surprisingly humanizing.
 
-## 5th August
+## Day 5 - getting on track
 
 ### BEEE (Basics of Electrical & Electronics Engineering)
 The day began with an introduction to BEEE — no heavy circuits yet, just a walkthrough of what the subject holds and how it's going to unfold over the semester. It felt more like a teaser trailer than the movie, but it did the job.
