@@ -22,20 +22,15 @@ Path was in process prior to 8:30 AM.
 ### Auditorium
 
 **Welcome Speeches**
-- HOD, Applied Sciences – Harpreet Kaur Garewal
-  
+- HOD, Applied Sciences – Harpreet Kaur Garewal  
   Opening words and warm welcome.
-- Dean Academics – Akshey Gidhar
-  
+- Dean Academics – Akshey Gidhar  
   Overview of academic expectations.
-- Principal Sir – Dr sehajpal Singh
-  
+- Principal Sir – Dr Sehajpal Singh  
   Encouragement and college vision.
-- Dean student welfare - Dr Paramjit Singh
-- Guest of Honor – ER Ravinder Garg and ER  Rakesh Kumar
-  
-  Real-world insights and motivation.
-Shared college journey and values.
+- Dean Student Welfare – Dr Paramjit Singh
+- Guest of Honor – Er. Ravinder Garg and Er. Rakesh Kumar  
+  Shared college journey and values.
 
 > I don’t remember every word, but the tone was clear:  
 > “You’re in a good college. Make the most of it.”  
@@ -103,12 +98,10 @@ English and Maths assessments held in the first half.
 - Called two students “God and His wife” 😭 (crowd-favorite moment).
 - Spray bottle ignition experiment — launched on stage.
 - Lit a bulb using his body (yes, after applying fuel to his forehead).
-- Wrote “Bhagwan” on the board and said:
-  
-> “I told you I’d make you meet God.”  
-> Couldn’t even argue with it — and he explained it logically too. Hats off.
-
-- Received honour from a trustee post-lecture - s. Gurchran Sungh Garewal — well-deserved.
+- Wrote “Bhagwan” on the board and said:  
+  > “I told you I’d make you meet God.”  
+  Couldn’t even argue with it — and he explained it logically too. Hats off.
+- Received honour from a trustee post-lecture - S. Gurcharan Singh Garewal — well-deserved.
 
 > Honestly? He was electric. Left the hall with more questions, but also this weird clarity. Like curiosity could be holy too.
 
@@ -132,5 +125,85 @@ English and Maths assessments held in the first half.
 - Cleared confusion around curriculum, tools, clubs, and general expectations.
 
 > Left lighter. Some anxiety shed.  
-> Questions 4became a little less scary.
+> Questions became a little less scary.
 
+---
+
+## DAY FOUR – P2P Learning & Programming Foundations
+
+**P2P Explanation**
+- **Compiler**: Converts human-readable code to machine-readable format.  
+- **Algorithm**: Step-by-step procedure to solve a particular problem.  
+- **Pseudocode**: Code written in plain English — simpler to understand.  
+- **Flowchart**: Visual representation of logic using diagrammatic symbols.  
+
+**Algorithm Example**  
+> Start  
+> Input two variables `x`, `y`  
+> Add `x` and `y`, store in `sum`  
+> Display `sum`  
+> End  
+
+**Pseudocode:**  
+> Start  
+> Input A, B  
+> Set sum = A + B  
+> Display sum  
+> End  
+
+**Flowchart** (described in text form):  
+[Start] → [Input A, B] → [Sum = A + B] → [Display Sum] → [End]  
+
+---
+
+**C++ Basics**  
+> "Programming is like talking to a very stubborn robot — say exactly what you mean."
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+   int age;
+   cout << "Enter your age: ";
+   cin >> age;
+   cout << "Your age is " << age;
+   return 0;
+}
+```
+
+**Key Concepts**:
+
+- `#include <iostream>` → Preprocessor directive  
+- `using namespace std;` → Removes the need for `std::` before keywords like `cout`  
+- `int main()` → Starting point of a C++ program  
+- `cout <<` → Insertion operator (outputs to screen)  
+- `cin >>` → Extraction operator (takes input from user)  
+
+**Data Types**:
+- `int`: Integers  
+- `float`: Decimal numbers (e.g., 8.96)  
+- `char`: Single characters (`'a'`, `'A'`)  
+- `bool`: Boolean (`true/false`)  
+- `string`: Collection of characters (e.g., `"Hello"`)  
+
+**Variable Naming Rules**:
+- Must start with a letter or underscore `_`  
+- No spaces or special symbols (except `_`)  
+- Avoid reserved keywords like `int`, `cout`  
+- Cannot start with a number, though it may end with one  
+
+---
+
+**English Lecture – Class Introductions**
+
+Each student introduced themselves with:
+- **Name**- Birti kaur
+- **Hobbies** – "More than I can count or remember... a new one every 3 months. Currently: content creation."
+- **School** - 12th from BCM Arya Model shastri nagar and until 10th from GNPS sarabha nagar
+- **Why CSE?** – "Why not? It’s logical and full of problem-solving and easy to do hands in training— which I love...and frankly its the only thing  that i can understand."
+- **Achievements**: State-level badminton and skating,  10+ medals and 60+ participations in Olympiads over the school years
+- **Strengths**: Logical and creative thinking, problem-solving
+- **Weaknesses**: Overthinking, spiraling, confidence
+
+> Felt like a soft launch — everyone’s story packed into 2 minutes. Surprisingly humanizing.
