@@ -197,13 +197,6 @@ int main() {
 
 **English Lecture – Class Introductions**
 
-Each student introduced themselves with:
-- **Name**- Birti kaur
-- **Hobbies** – "More than I can count or remember... a new one every 3 months. Currently: content creation."
-- **School** - 12th from BCM Arya Model shastri nagar and until 10th from GNPS sarabha nagar
-- **Why CSE?** – "Why not? It’s logical and full of problem-solving and easy to do hands in training— which I love...and frankly its the only thing  that i can understand."
-- **Achievements**: State-level badminton and skating,  10+ medals and 60+ participations in Olympiads over the school years
-- **Strengths**: Logical and creative thinking, problem-solving
-- **Weaknesses**: Overthinking, spiraling, confidence
+Each student introduced themselves with: their name, school , hobbies , strengths , weeknesses , achievements , accomplishments and a few other things
 
 > Felt like a soft launch — everyone’s story packed into 2 minutes. Surprisingly humanizing.
