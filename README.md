@@ -221,3 +221,45 @@ We used the break to wander a bit — campus exploration continues. This time we
 ---
 
 > Not an intense day academically, but it had its own rhythm. Slowly settling into the space... and maybe even starting to find pieces of myself in it. Just not all of them yet.
+> 
+## Day 6 – Orientation & CML
+
+### Chemistry + Math  
+The day began with introductory sessions for both Chemistry and Mathematics. Faculty gave an overview of the syllabus, explained the internal–external mark split, and shared how the papers would be scheduled.  
+Mid-sem exams will carry 24 marks and are expected in the 3rd week of September and October, with final exams in November.
+
+### S. Gurcharan Singh – Center for Multifaceted Learning (CML)  
+We were introduced to CML — a platform focused on creative training and content development for school students (grades 6–12, outside India).  
+Students can apply through a form + interview process for recruitment.  
+He also spoke about the NPTEL online exam (Batch 29), which we're eligible for as part of the local chapter.  
+> Password clue of the day: `1512` — can't forget that now.
+
+> A slow-paced day but one that added structure. Less pressure, more clarity.
+
+---
+
+## Day 7 – Clubs, Content & Campus Roles
+>Finally one week into the induction program and the collage itself
+
+### Harpreet Ma’am – spoke up about punctuality also (maybe forced a little😅) encouraged students to come up and speak a little avout themselves
+
+### Dean Student Welfare
+
+he spoke about available scholarships, the support system in place for students, and how to get involved in campus activities.  
+There are opportunities for photography, event coverage, social media content, and reel creation.  
+We were encouraged to explore clubs like the **English Club** and **Mathamagic**, both of which blend creativity with academics.
+
+###  Digital Marketing and the club
+
+We were introduced to the **Digital Marketing Club (DMC)** today. The session was led by sir himself, who shared how he’s helped publicize GNDEC through various social media platforms — speaking not just as a mentor, but as a digital marketer with hands-on experience.  
+He walked us through a 16-week digital marketing course he completed, and encouraged us to join as well — even offering to waive the fee for those who finish it.
+
+
+> It wasn’t just about followers — it was about turning content into opportunity.
+
+> Honestly, a well-paced and inspiring session. Left the room feeling like it’s something we could genuinely build into.
+
+After the break, we had a **BEEE lecture**, where a few basic concepts were introduced, followed by a **P2P session** that dove deeper into C++ — this time, more practical and clear.
+
+
+> The day focused more on involvement than academics — but the balance is starting to show.
